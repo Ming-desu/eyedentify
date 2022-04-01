@@ -1,0 +1,7 @@
+fork
+knife
+mug
+scissor
+soy_sauce
+spoon
+vinegar
