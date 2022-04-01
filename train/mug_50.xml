@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder (2)</folder>
+	<filename>mug_50.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\New folder (2)\mug_50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2600</xmin>
+			<ymin>986</ymin>
+			<xmax>3639</xmax>
+			<ymax>1847</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1513</xmin>
+			<ymin>1082</ymin>
+			<xmax>2396</xmax>
+			<ymax>1882</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>960</ymin>
+			<xmax>1378</xmax>
+			<ymax>1947</ymax>
+		</bndbox>
+	</object>
+</annotation>

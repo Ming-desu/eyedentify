@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fork</folder>
+	<filename>fork_22.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\thing unfinish\fork\fork_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>12000</width>
+		<height>9000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5014</xmin>
+			<ymin>3785</ymin>
+			<xmax>5800</xmax>
+			<ymax>6785</ymax>
+		</bndbox>
+	</object>
+</annotation>

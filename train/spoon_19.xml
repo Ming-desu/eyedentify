@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spoon</folder>
+	<filename>spoon_19.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\thing unfinish\spoon\spoon_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>12000</width>
+		<height>9000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5114</xmin>
+			<ymin>2342</ymin>
+			<xmax>6328</xmax>
+			<ymax>6199</ymax>
+		</bndbox>
+	</object>
+</annotation>

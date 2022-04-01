@@ -1,0 +1,38 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>knife_61.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\thing unfinish\knife\knife_61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1056</xmin>
+			<ymin>903</ymin>
+			<xmax>1169</xmax>
+			<ymax>2069</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2496</xmin>
+			<ymin>873</ymin>
+			<xmax>3052</xmax>
+			<ymax>2716</ymax>
+		</bndbox>
+	</object>
+</annotation>

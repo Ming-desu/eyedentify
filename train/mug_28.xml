@@ -1,0 +1,38 @@
+<annotation>
+	<folder>THINGS</folder>
+	<filename>mug_28.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\THINGS\mug_28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1883</xmin>
+			<ymin>1343</ymin>
+			<xmax>2130</xmax>
+			<ymax>1534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2391</xmin>
+			<ymin>1299</ymin>
+			<xmax>2604</xmax>
+			<ymax>1530</ymax>
+		</bndbox>
+	</object>
+</annotation>

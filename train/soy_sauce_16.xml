@@ -1,0 +1,38 @@
+<annotation>
+	<folder>soy_sauce</folder>
+	<filename>soy_sauce_16.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\thing unfinish\soy_sauce\soy_sauce_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soy_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2161</xmin>
+			<ymin>1038</ymin>
+			<xmax>2596</xmax>
+			<ymax>1777</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soy_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1439</xmin>
+			<ymin>934</ymin>
+			<xmax>1778</xmax>
+			<ymax>1725</ymax>
+		</bndbox>
+	</object>
+</annotation>

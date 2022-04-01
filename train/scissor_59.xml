@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scissor</folder>
+	<filename>scissor_59.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\thing unfinish\scissor\scissor_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1369</xmin>
+			<ymin>816</ymin>
+			<xmax>3256</xmax>
+			<ymax>1934</ymax>
+		</bndbox>
+	</object>
+</annotation>

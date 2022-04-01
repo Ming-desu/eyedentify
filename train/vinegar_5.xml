@@ -1,0 +1,38 @@
+<annotation>
+	<folder>vinegar</folder>
+	<filename>vinegar_5.jpg</filename>
+	<path>C:\Users\Jhumar Rosales\Desktop\thing unfinish\vinegar\vinegar_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vinegar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2600</xmin>
+			<ymin>1021</ymin>
+			<xmax>3004</xmax>
+			<ymax>1656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vinegar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>896</xmin>
+			<ymin>1003</ymin>
+			<xmax>1252</xmax>
+			<ymax>1756</ymax>
+		</bndbox>
+	</object>
+</annotation>
